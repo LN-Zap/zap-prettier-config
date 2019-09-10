@@ -1,0 +1,24 @@
+{
+  "name": "@ln-zap/prettier-config",
+  "version": "0.1.0",
+  "description": "Reusable prettier config used in Zap projects",
+  "main": "index.json",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LN-Zap/zap-prettier-config.git"
+  },
+  "keywords": [
+    "style guide",
+    "lint",
+    "zap"
+  ],
+  "author": "Tom Kirkpatrick <tkp@kirkdesigns.co.uk> (https://twitter.com/mrfelton)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LN-Zap/zap-prettier-config/issues"
+  },
+  "homepage": "https://github.com/LN-Zap/zap-prettier-config",
+  "dependencies": {},
+  "peerDependencies": {}
+}
